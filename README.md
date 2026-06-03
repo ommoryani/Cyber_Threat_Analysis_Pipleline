@@ -21,13 +21,13 @@ To translate technical database tables into corporate strategy, I developed a ce
 
 ### Live Interaction Demo
 <!-- Embed your animated demo GIF here -->
-![Tableau Interactive Demo](assets/dashboard_demo.gif)
+![Tableau Interactive Demo](https://github.com/ommoryani/Cyber_Threat_Analysis_Pipleline/blob/main/DASHBOARD.gif)
 
 ### High-Resolution Static Snapshot
 <details>
 <summary>🔍 Click here to expand the high-resolution dashboard snapshot</summary>
 
-![Tableau Static Dashboard](DASHBOARD.jpg)
+![Tableau Static Dashboard](https://github.com/ommoryani/Cyber_Threat_Analysis_Pipleline/blob/main/DASHBOARD.png)
 </details>
 
 ---
